@@ -1,5 +1,6 @@
 # 💫 About Me:
 Full Stack Developer🧑‍💻
+Telegram : @ichbinyas
 
 
 # 💻 Tech Stack:
