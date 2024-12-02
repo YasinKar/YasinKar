@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer🧑‍💻<br>Math Student🧑‍🎓
+Full Stack Developer🧑‍💻
 
 
 # 💻 Tech Stack:
