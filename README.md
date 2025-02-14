@@ -1,7 +1,7 @@
 # 💫 About Me:
 Full Stack Developer 💻
 </br>
-<a alt="Resume" href="https://github.com/YasinKar/YasinKar/edit/main/Yasin_Karbasi.pdf">My Resume</a>
+<a alt="Resume" href="https://github.com/YasinKar/YasinKar/Yasin_Karbasi.pdf">My Resume</a>
 
 
 ## 🌐 Socials:
